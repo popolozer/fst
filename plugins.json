@@ -16,7 +16,7 @@
         ],
         "version": 7,
         "internalName": "Anichi",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anichi.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Anichi.cs3",
         "name": "Anichi"
     },
     {
@@ -36,11 +36,11 @@
         ],
         "version": 1,
         "internalName": "Anifreakz",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anifreakz.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Anifreakz.cs3",
         "name": "Anifreakz"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/Anilibria/icon.png",
+        "iconUrl": "https://github.com/popolozer/fst/blob/master/Anilibria/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/popolozer/fst",
         "fileSize": 19453,
@@ -56,7 +56,7 @@
         ],
         "version": 2,
         "internalName": "Anilibria",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anilibria.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Anilibria.cs3",
         "name": "Anilibria"
     },
     {
@@ -76,7 +76,7 @@
         ],
         "version": 11,
         "internalName": "AnimeIndoProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeIndoProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/AnimeIndoProvider.cs3",
         "name": "AnimeIndoProvider"
     },
     {
@@ -96,7 +96,7 @@
         ],
         "version": 8,
         "internalName": "AnimeSailProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeSailProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/AnimeSailProvider.cs3",
         "name": "AnimeSailProvider"
     },
     {
@@ -117,7 +117,7 @@
         "version": 5,
         "internalName": "Aniworld",
         "description": "Include: Serienstream",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Aniworld.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Aniworld.cs3",
         "name": "Aniworld"
     },
     {
@@ -137,7 +137,7 @@
         ],
         "version": 1,
         "internalName": "Anizm",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anizm.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Anizm.cs3",
         "name": "Anizm"
     },
     {
@@ -157,7 +157,7 @@
         ],
         "version": 2,
         "internalName": "Anroll",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anroll.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Anroll.cs3",
         "name": "Anroll"
     },
     {
@@ -175,7 +175,7 @@
         ],
         "version": 1,
         "internalName": "Dizikorea",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dizikorea.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Dizikorea.cs3",
         "name": "Dizikorea"
     },
     {
@@ -195,7 +195,7 @@
         "version": 8,
         "internalName": "DramaidProvider",
         "description": "Include: Oppadrama",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaidProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/DramaidProvider.cs3",
         "name": "DramaidProvider"
     },
     {
@@ -213,7 +213,7 @@
         ],
         "version": 4,
         "internalName": "DramaSerial",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaSerial.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/DramaSerial.cs3",
         "name": "DramaSerial"
     },
     {
@@ -234,7 +234,7 @@
         ],
         "version": 1,
         "internalName": "Dubbindo",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dubbindo.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Dubbindo.cs3",
         "name": "Dubbindo"
     },
     {
@@ -254,7 +254,7 @@
         ],
         "version": 1,
         "internalName": "DubokuProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DubokuProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/DubokuProvider.cs3",
         "name": "DubokuProvider"
     },
     {
@@ -275,7 +275,7 @@
         "version": 3,
         "internalName": "Gomov",
         "description": "Include: DutaMovie, Ngefilm, Nodrakorid",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomov.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Gomov.cs3",
         "name": "Gomov"
     },
     {
@@ -295,7 +295,7 @@
         ],
         "version": 6,
         "internalName": "Gomunimeis",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomunimeis.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Gomunimeis.cs3",
         "name": "Gomunimeis"
     },
     {
@@ -315,7 +315,7 @@
         ],
         "version": 2,
         "internalName": "GomunimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/GomunimeProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/GomunimeProvider.cs3",
         "name": "GomunimeProvider"
     },
     {
@@ -334,7 +334,7 @@
         "version": 7,
         "internalName": "GoodPorn",
         "description": "Premium porn with 4K support (use VPN if links not working)",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/GoodPorn.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/GoodPorn.cs3",
         "name": "GoodPorn"
     },
     {
@@ -353,7 +353,7 @@
         ],
         "version": 10,
         "internalName": "Hdfilmcehennemi",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Hdfilmcehennemi.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Hdfilmcehennemi.cs3",
         "name": "Hdfilmcehennemi"
     },
     {
@@ -374,7 +374,7 @@
         ],
         "version": 3,
         "internalName": "HDrezkaProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/HDrezkaProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/HDrezkaProvider.cs3",
         "name": "HDrezkaProvider"
     },
     {
@@ -392,7 +392,7 @@
         ],
         "version": 3,
         "internalName": "Hentaiheaven",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Hentaiheaven.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Hentaiheaven.cs3",
         "name": "Hentaiheaven"
     },
     {
@@ -413,7 +413,7 @@
         ],
         "version": 10,
         "internalName": "IdlixProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/IdlixProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/IdlixProvider.cs3",
         "name": "IdlixProvider"
     },
     {
@@ -432,7 +432,7 @@
         ],
         "version": 1,
         "internalName": "IMoviehd",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/IMoviehd.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/IMoviehd.cs3",
         "name": "IMoviehd"
     },
     {
@@ -452,7 +452,7 @@
         ],
         "version": 10,
         "internalName": "Kickassanime",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Kickassanime.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Kickassanime.cs3",
         "name": "Kickassanime"
     },
     {
@@ -470,7 +470,7 @@
         ],
         "version": 2,
         "internalName": "Kissasian",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Kissasian.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Kissasian.cs3",
         "name": "Kissasian"
     },
     {
@@ -491,7 +491,7 @@
         ],
         "version": 4,
         "internalName": "KisskhProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KisskhProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/KisskhProvider.cs3",
         "name": "KisskhProvider"
     },
     {
@@ -511,7 +511,7 @@
         ],
         "version": 13,
         "internalName": "KuramanimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuramanimeProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/KuramanimeProvider.cs3",
         "name": "KuramanimeProvider"
     },
     {
@@ -531,7 +531,7 @@
         ],
         "version": 13,
         "internalName": "KuronimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuronimeProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/KuronimeProvider.cs3",
         "name": "KuronimeProvider"
     },
     {
@@ -551,7 +551,7 @@
         ],
         "version": 14,
         "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/LayarKacaProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
@@ -573,7 +573,7 @@
         "version": 26,
         "internalName": "Loklok",
         "description": "#2 best extension based on Loklok API",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Loklok.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Loklok.cs3",
         "name": "Loklok"
     },
     {
@@ -591,7 +591,7 @@
         ],
         "version": 3,
         "internalName": "Minioppai",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Minioppai.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Minioppai.cs3",
         "name": "Minioppai"
     },
     {
@@ -610,7 +610,7 @@
         ],
         "version": 1,
         "internalName": "Moviehab",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Moviehab.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Moviehab.cs3",
         "name": "Moviehab"
     },
     {
@@ -629,7 +629,7 @@
         ],
         "version": 37,
         "internalName": "Movierulzhd",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Movierulzhd.cs3",
         "name": "Movierulzhd"
     },
     {
@@ -649,7 +649,7 @@
         ],
         "version": 2,
         "internalName": "MultiplexProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/MultiplexProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/MultiplexProvider.cs3",
         "name": "MultiplexProvider"
     },
     {
@@ -667,7 +667,7 @@
         ],
         "version": 3,
         "internalName": "Nekopoi",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nekopoi.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Nekopoi.cs3",
         "name": "Nekopoi"
     },
     {
@@ -688,7 +688,7 @@
         ],
         "version": 7,
         "internalName": "NeonimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NeonimeProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/NeonimeProvider.cs3",
         "name": "NeonimeProvider"
     },
     {
@@ -708,7 +708,7 @@
         ],
         "version": 3,
         "internalName": "Nimegami",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nimegami.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Nimegami.cs3",
         "name": "Nimegami"
     },
     {
@@ -728,7 +728,7 @@
         ],
         "version": 16,
         "internalName": "NontonAnimeIDProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NontonAnimeIDProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/NontonAnimeIDProvider.cs3",
         "name": "NontonAnimeIDProvider"
     },
     {
@@ -746,7 +746,7 @@
         ],
         "version": 3,
         "internalName": "OnetwothreeTv",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OnetwothreeTv.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/OnetwothreeTv.cs3",
         "name": "OnetwothreeTv"
     },
     {
@@ -766,7 +766,7 @@
         ],
         "version": 20,
         "internalName": "OploverzProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OploverzProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/OploverzProvider.cs3",
         "name": "OploverzProvider"
     },
     {
@@ -786,7 +786,7 @@
         ],
         "version": 12,
         "internalName": "OtakudesuProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OtakudesuProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/OtakudesuProvider.cs3",
         "name": "OtakudesuProvider"
     },
     {
@@ -805,7 +805,7 @@
         "version": 4,
         "internalName": "Paradisehill",
         "description": "Series porn (use VPN if links not working)",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Paradisehill.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Paradisehill.cs3",
         "name": "Paradisehill"
     },
     {
@@ -827,7 +827,7 @@
         "version": 2,
         "internalName": "Phim1080",
         "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Phim1080.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Phim1080.cs3",
         "name": "Phim1080"
     },
     {
@@ -848,7 +848,7 @@
         ],
         "version": 5,
         "internalName": "PhimmoichillProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/PhimmoichillProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
     },
     {
@@ -870,7 +870,7 @@
         "version": 7,
         "internalName": "RebahinProvider",
         "description": "Include: Cgvindo, Kitanonton",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/RebahinProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/RebahinProvider.cs3",
         "name": "RebahinProvider"
     },
     {
@@ -890,11 +890,11 @@
         ],
         "version": 11,
         "internalName": "Samehadaku",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Samehadaku.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Samehadaku.cs3",
         "name": "Samehadaku"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
+        "iconUrl": "https://github.com/popolozer/fst/blob/master/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/popolozer/fst",
         "fileSize": 296807,
@@ -917,7 +917,7 @@
         "name": "SoraStream"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/StremioX/icon.png",
+        "iconUrl": "https://github.com/popolozer/fst/blob/master/StremioX/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/popolozer/fst",
         "fileSize": 72053,
@@ -933,7 +933,7 @@
         "version": 9,
         "internalName": "StremioX",
         "description": "[!] Requires Setup \n- StremioX allows you to use stream addons \n- StremioC allows you to use catalog addons",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/StremioX.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/StremioX.cs3",
         "name": "StremioX"
     },
     {
@@ -952,7 +952,7 @@
         "version": 16,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/TimefourTv.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/TimefourTv.cs3",
         "name": "TimefourTv"
     },
     {
@@ -972,7 +972,7 @@
         ],
         "version": 2,
         "internalName": "TocanimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/TocanimeProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/TocanimeProvider.cs3",
         "name": "TocanimeProvider"
     },
     {
@@ -990,7 +990,7 @@
         ],
         "version": 1,
         "internalName": "Topdocumentaryfilms",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Topdocumentaryfilms.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Topdocumentaryfilms.cs3",
         "name": "Topdocumentaryfilms"
     },
     {
@@ -1009,7 +1009,7 @@
         ],
         "version": 1,
         "internalName": "Turkish",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Turkish.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Turkish.cs3",
         "name": "Turkish"
     },
     {
@@ -1027,7 +1027,7 @@
         ],
         "version": 2,
         "internalName": "Tvtwofourseven",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Tvtwofourseven.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Tvtwofourseven.cs3",
         "name": "Tvtwofourseven"
     },
     {
@@ -1047,7 +1047,7 @@
         ],
         "version": 1,
         "internalName": "UakinoProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/UakinoProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/UakinoProvider.cs3",
         "name": "UakinoProvider"
     },
     {
@@ -1065,7 +1065,7 @@
         ],
         "version": 2,
         "internalName": "UseeTv",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/UseeTv.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/UseeTv.cs3",
         "name": "UseeTv"
     },
     {
@@ -1085,7 +1085,7 @@
         ],
         "version": 2,
         "internalName": "WcofunProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/WcofunProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/WcofunProvider.cs3",
         "name": "WcofunProvider"
     },
     {
@@ -1105,11 +1105,11 @@
         "version": 4,
         "internalName": "Xcineio",
         "description": "Include: Movie4k",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Xcineio.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Xcineio.cs3",
         "name": "Xcineio"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/Xcinetop/icon.png",
+        "iconUrl": "https://github.com/popolozer/fst/blob/master/Xcinetop/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/popolozer/fst",
         "fileSize": 17551,
@@ -1124,7 +1124,7 @@
         ],
         "version": 3,
         "internalName": "Xcinetop",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Xcinetop.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/Xcinetop.cs3",
         "name": "Xcinetop"
     },
     {
@@ -1144,7 +1144,7 @@
         "version": 17,
         "internalName": "YomoviesProvider",
         "description": "Include: Watchomovies",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YomoviesProvider.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/YomoviesProvider.cs3",
         "name": "YomoviesProvider"
     },
     {
@@ -1164,7 +1164,7 @@
         ],
         "version": 7,
         "internalName": "YugenAnime",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YugenAnime.cs3",
+        "url": "https://github.com/popolozer/fst/blob/builds/YugenAnime.cs3",
         "name": "YugenAnime"
     }
 ]
